@@ -1,10 +1,10 @@
 ## Elvis Otieno, FullStack Developer
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/otienoelvis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otienoelvis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otienoelvis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
+</div-->
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg">
   <img align="center" alt="DotNet" height="60" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Android" height="60" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg">
