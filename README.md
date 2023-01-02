@@ -9,19 +9,18 @@
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain-wordmark.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Fhn-rkhXwAEqCi-?format=jpg&name=medium">
 </div>
   
-  ##
  
-</div> 
+<div> 
 
 
   <a href = "mailto:otienoelvis8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elvisotieno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  
 </div>
